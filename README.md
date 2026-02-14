@@ -25,50 +25,6 @@ I’m passionate about building impactful technology at the intersection of **AI
 
 ---
 
-## 🚀 Professional Experience
-
-### 🌎 Software Engineer Intern — WLAC Climate Change
-*Sep 2025 – Dec 2025*
-- Built a responsive React-based climate awareness platform hosting 6 flagship projects
-- Recreated Altadena neighborhood in **Unreal Engine** to simulate wildfire behavior
-- Deployed full project suite via GitHub
-
-### 🤖 Digital Solutions Intern — Saniset Fleet
-*Jun 2025 – Sep 2025*
-- Developed custom product calculator + AI chatbot using Velo (Wix)
-- Reduced manual support inquiries by **50%**
-- Improved engagement by **40%**
-- Implemented analytics & maintained 99.9% uptime
-
-### 🌍 SOURCES Intern — SCEC / Verisk Analytics (CyberShake Project)
-*Jun 2025 – Aug 2025*
-- Analyzed **500GB+ seismic simulation data**
-- Built a Python Tkinter GUI reducing setup/retrieval time by **60%**
-- Integrated an LLM for real-time user support
-- Developed waveform visualization tools for large seismogram datasets
-
-### 🏫 LACCD Web Services Team Intern — Jacobs x BuildLACCD
-*Apr 2024 – Apr 2025*
-- Supported systems serving **230,000+ users**
-- Resolved 100+ development tickets in Agile environment
-- Reduced peak downtime by **35%**
-
-### 🗳 IT Support Technician — RiverStreamz
-- Maintained secure election infrastructure
-- Resolved 200+ ballot system issues
-- Reduced device downtime by **50%**
-
----
-
-## 🏆 Hackathons & Projects
-
-### 💪 FitFusion — HackMESA 2025
-- Full-stack fitness tracking app
-- Flask backend + HTML/CSS/JS frontend
-- Tracks BMI, body fat %, lean mass
-- Deployed on Render
-
----
 
 ## 🛠 Tech Stack
 
