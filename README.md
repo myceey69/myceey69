@@ -39,10 +39,8 @@ I’m passionate about building impactful technology at the intersection of **AI
 ### 🌐 Web & Frameworks
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
 ![Django](https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django)
-![Redux](https://img.shields.io/badge/Redux-111?style=for-the-badge&logo=redux)
 ![Flask](https://img.shields.io/badge/Flask-111?style=for-the-badge&logo=flask)
 ![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-111?style=for-the-badge&logo=kubernetes)
 
 ### 📊 Data & AI
 ![R](https://img.shields.io/badge/R-111?style=for-the-badge&logo=r)
