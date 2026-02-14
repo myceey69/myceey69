@@ -56,23 +56,6 @@ I’m passionate about building impactful technology at the intersection of **AI
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" />
-</p>
-
----
-
-## 🤝 Let’s Connect
-
-📧 mchongloo@cpp.edu  
-🔗 LinkedIn: https://www.linkedin.com/in/machongloo/  
-🌐 Portfolio: https://myceey69.github.io/macl/
-
----
-
 <p align="center">
   🚀 Always building. Always learning.
 </p>
