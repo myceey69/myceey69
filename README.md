@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **B.S. in Computer Science**, Cal Poly Pomona (Expected May 2027)  
+🎓 **B.S. in Computer Science**, Cal Poly Pomona (Expected May 2028)  
 📊 GPA: 3.7  
 🌎 Los Angeles, CA  
 🌐 Fluent in English & Spanish | Conversational Cantonese  
