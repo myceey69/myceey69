@@ -19,7 +19,7 @@
 🎓 **B.S. in Computer Science**, Cal Poly Pomona (Expected May 2028)  
 📊 GPA: 3.7  
 🌎 Los Angeles, CA  
-🌐 Fluent in English & Spanish | Conversational Cantonese  
+🌐 Fluent in English, Spanish & Cantonese  
 
 I’m passionate about building impactful technology at the intersection of **AI, data science, and full-stack development**. I’ve worked on seismic hazard research, climate simulations, enterprise systems, and AI-powered web platforms.
 
